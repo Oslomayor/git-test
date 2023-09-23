@@ -3,9 +3,9 @@
 
 ## useful command
 
-git status
-git add filename
-git commit -m "update file"
-git remote add aaa git@github.com:Oslomayor/git-test.git
-git push -u aaa main/master
+git status  
+git add filename  
+git commit -m "update file"  
+git remote add aaa git@github.com:Oslomayor/git-test.git  
+git push -u aaa main/master  
 
