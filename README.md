@@ -4,8 +4,8 @@
 ## useful command
 
 git status
-git add gemm.py
-git commit -m "update gemm"
-git remote add gemm git@github.com:Oslomayor/gemm.git
-git push -u gemm main
+git add filename
+git commit -m "update file"
+git remote add aaa git@github.com:Oslomayor/git-test.git
+git push -u aaa main/master
 
