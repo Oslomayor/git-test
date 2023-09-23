@@ -3,6 +3,7 @@
 
 ## useful command
 
+### update local file to github
 git status  
 git add filename  
 git commit -m "update file"  
